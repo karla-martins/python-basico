@@ -1,2 +1,12 @@
-# python-basico
-Projetos e exercícios práticos em Python focados em lógica de programação, resolução de problemas e construção de base para análise de dados e automação.
+# Estudos em Python 🐍
+
+Repositório criado para registrar minha evolução em Python.
+
+## Conteúdos estudados
+- Variáveis
+- Condicionais
+- Laços de repetição
+- Listas
+
+## Objetivo
+Desenvolver lógica de programação e construir base para análise de dados.
